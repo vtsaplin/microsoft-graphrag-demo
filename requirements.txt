@@ -1,0 +1,5 @@
+graphrag
+networkx
+matplotlib
+python-docx
+playwright
